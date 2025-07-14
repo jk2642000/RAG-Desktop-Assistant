@@ -191,8 +191,8 @@ See our [ROADMAP.md](ROADMAP.md) for planned features and development timeline.
 ## 🤝 Contributing
 
 This project is actively maintained by:
-- **[Your Name]** - [@your-github-username](https://github.com/your-github-username)
-- **[Collaborator Name]** - [@collaborator-username](https://github.com/collaborator-username)
+- **Jay Khokhara** - jk2642000 (https://github.com/jk2642000)
+- **Yash Chandarana** - Yasssh2123(https://github.com/Yasssh2123)
 
 We welcome contributions! Please feel free to submit issues, feature requests, or pull requests.
 
