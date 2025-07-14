@@ -2,8 +2,8 @@
 
 ## Core Contributors
 
-### [Your Name] - Project Lead & Core Architecture
-- **GitHub**: [@your-username](https://github.com/your-username)
+### Jay Khokhara - Project Lead & Core Architecture
+- **GitHub**: jk2642000 (https://github.com/jk2642000)
 - **Role**: Lead Developer & Maintainer
 - **Contributions**:
   - Core RAG engine architecture
@@ -13,8 +13,8 @@
   - Main UI framework
   - Project setup and configuration
 
-### [Teammate Name] - Advanced Features & Analytics
-- **GitHub**: [@teammate-username](https://github.com/teammate-username)
+### Yash Chandarana - Advanced Features & Analytics
+- **GitHub**: Yasssh2123 (https://github.com/Yasssh2123)
 - **Role**: Co-Developer & Analytics Specialist
 - **Contributions**:
   - Advanced analytics dashboard
