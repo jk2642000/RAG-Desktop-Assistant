@@ -1,0 +1,21 @@
+Date,Company,Revenue,Profit,Employees,Region,Industry
+2024-01-01,TechCorp,45000000,6750000,450,North America,Technology
+2024-01-01,DataSys,23000000,2300000,180,Europe,Software
+2024-01-01,CloudNet,67000000,10050000,890,Asia,Cloud Services
+2024-01-01,AILabs,12000000,1800000,95,North America,Artificial Intelligence
+2024-01-01,SecureIT,34000000,5100000,320,Europe,Cybersecurity
+2024-02-01,TechCorp,47000000,7050000,465,North America,Technology
+2024-02-01,DataSys,24500000,2450000,185,Europe,Software
+2024-02-01,CloudNet,69000000,10350000,910,Asia,Cloud Services
+2024-02-01,AILabs,13500000,2025000,102,North America,Artificial Intelligence
+2024-02-01,SecureIT,35500000,5325000,335,Europe,Cybersecurity
+2024-03-01,TechCorp,49000000,7350000,478,North America,Technology
+2024-03-01,DataSys,26000000,2600000,192,Europe,Software
+2024-03-01,CloudNet,71000000,10650000,925,Asia,Cloud Services
+2024-03-01,AILabs,15000000,2250000,108,North America,Artificial Intelligence
+2024-03-01,SecureIT,37000000,5550000,348,Europe,Cybersecurity
+2024-04-01,TechCorp,51000000,7650000,492,North America,Technology
+2024-04-01,DataSys,27500000,2750000,198,Europe,Software
+2024-04-01,CloudNet,73000000,10950000,940,Asia,Cloud Services
+2024-04-01,AILabs,16500000,2475000,115,North America,Artificial Intelligence
+2024-04-01,SecureIT,38500000,5775000,362,Europe,Cybersecurity
